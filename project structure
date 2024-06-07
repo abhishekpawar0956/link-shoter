@@ -1,0 +1,13 @@
+url-shortener/
+│
+├── config/
+│   ├── db.js
+├── controllers/
+│   ├── urlController.js
+├── models/
+│   ├── Url.js
+├── routes/
+│   ├── urlRoutes.js
+├── index.js
+├── package.json
+└── README.md
